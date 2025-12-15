@@ -11,7 +11,7 @@
   "keywords": [],
   "author": "",
   "license": "BSD 3",
-  "packageManager": "pnpm@10.15.1+sha256.8c53af02ae3ec1fb0ae75377f8d4d6217c2d7cbe6f03c16350cabf7493de6eff",
+  "packageManager": "pnpm@10",
   "dependencies": {
     "maplibre-gl": "^5.7.0"
   },
